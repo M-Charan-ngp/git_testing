@@ -1,2 +1,6 @@
-Hi , i am karthick i am going to make some changes to check merge conflit
 
+Hi , i am karthick i am going to make some changes to check merge conflit
+hello,This is charan branch,
+ This one will be used for the future merging of branches
+hi, how are you?
+SMD : Hello, No changes should be done to this one.But some can be done.
