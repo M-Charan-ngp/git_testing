@@ -1,5 +1,6 @@
 this is file 2 
 and created for git learning purpose.
 And re-edited by me
+<<<<<<< HEAD
 And again, but in another branch
-
+(Sorry for re-editing)
